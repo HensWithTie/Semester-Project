@@ -1,0 +1,16 @@
+Concerning using curl for Part 1 HW on Step 5.
+
+I tried doing what step 5 said, which is to use curl, for me it wasn't displaying the actual data set.
+Instead it gave me some random information that didn't really matter to me.
+
+What I had to do:
+
+1. Download the csv and manually add it into the local repo
+2. git add .
+3. git status
+4. git commit -m "Added suiciderates.csv"
+5. git status 
+6. git push
+7. Go in and check if it is working.
+
+Why can't technology work as intended. D:
