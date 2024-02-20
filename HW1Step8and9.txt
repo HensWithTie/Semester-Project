@@ -1,0 +1,15 @@
+Documentation for Step 8 and 9
+
+
+What I did:
+
+1. Open GitBash or Visual Stuido Code GitBash
+2. Typed in the following
+    $ awk -F ',' '{print $8, $9, $11, $15}' suiciderates.csv > maybeuseful.csv
+3. See maybeuseful.csv file for Results
+
+Not much to say here. Honestly step 8 confused me in what to exactly type in if that makes any sort of sense.
+I understand that we show what we could use but I'm not sure if it meant actively doing this like
+for example, addition or subtraction. 
+
+In any case, from what I can see, there are more suicides in Men than in Women. Although I could be wrong.
