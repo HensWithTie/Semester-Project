@@ -1,0 +1,24 @@
+Documentation for Step 6 in HW1
+
+Although I'd say that all of the column in this dataset are important, the ones I would be mostly
+focusing on are Age, Age Num, Year, and Sex. This may change as the project continues but for now
+I am focusing on that.
+
+
+What I did:
+1. Open GitBash or Visual Studio Code with Terminal in bash.
+2.$ head suiciderates.csv
+3. Results are as below
+
+INDICATOR,UNIT,UNIT_NUM,STUB_NAME,STUB_NAME_NUM,STUB_LABEL,STUB_LABEL_NUM,YEAR,YEAR_NUM,AGE,AGE_NUM,ESTIMATE,FLAG
+Death rates for suicide,"Deaths per 100,000 resident population, age-adjusted",1,Total,0,All persons,0,1950,1,All ages,0,13.2,
+Death rates for suicide,"Deaths per 100,000 resident population, age-adjusted",1,Total,0,All persons,0,1960,2,All ages,0,12.5,
+Death rates for suicide,"Deaths per 100,000 resident population, age-adjusted",1,Total,0,All persons,0,1970,3,All ages,0,13.1,
+Death rates for suicide,"Deaths per 100,000 resident population, age-adjusted",1,Total,0,All persons,0,1980,4,All ages,0,12.2,
+Death rates for suicide,"Deaths per 100,000 resident population, age-adjusted",1,Total,0,All persons,0,1981,5,All ages,0,12.3,
+Death rates for suicide,"Deaths per 100,000 resident population, age-adjusted",1,Total,0,All persons,0,1982,6,All ages,0,12.5,
+Death rates for suicide,"Deaths per 100,000 resident population, age-adjusted",1,Total,0,All persons,0,1983,7,All ages,0,12.4,
+Death rates for suicide,"Deaths per 100,000 resident population, age-adjusted",1,Total,0,All persons,0,1984,8,All ages,0,12.6,
+Death rates for suicide,"Deaths per 100,000 resident population, age-adjusted",1,Total,0,All persons,0,1985,9,All ages,0,12.5,
+
+Note: The last comma exist because of a Flag Columns that contains N/A
