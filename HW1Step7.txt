@@ -1,0 +1,13 @@
+Documentation for HW1 Step 7. 
+
+Honestly I have no clue how this is gonna work.
+
+What I did:
+ 
+ 1. Open GitBash or Visual Studio Code GitBash
+ 2. Typed the following in
+    $ awk -F ',' '{print $2 ,$3, $5, $6, $7, $8, $9, $11}' suiciderates.csv > testfile.csv
+ 3.See for testfile.csv for result
+
+Honestly I have no idea how the years are in $11 even though in the data set, it is directly in the middle.
+This means that the year should NOT technically be in $11.
