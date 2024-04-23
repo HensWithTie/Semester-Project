@@ -1,0 +1,5 @@
+After cleaning the data and creating graphs to prove or disprove my hypothesis, 
+the suiciderates.csv file states that men have a higher suicide rate than women.
+More specifcally, ages 20-24 and 25-34 have the highest suicide rate. In terms of which race has more suicides,
+interestingly enough, are American Indians and Alaska Natives. For some reason, they have the highest suicide rate 
+out of Whites, Blacks, and Asians.
